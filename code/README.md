@@ -6,8 +6,10 @@ The python scrips were used to generate icons, look up tables (LUT) and menus.
 
 
 I used the folowing settings in platform.ini:
+```
 [env:sipeed-longan-nano]
 platform = gd32v
 board = sipeed-longan-nano
 framework = gd32vf103-sdk
 upload_protocol = dfu
+```
