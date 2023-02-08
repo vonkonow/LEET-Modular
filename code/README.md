@@ -5,7 +5,7 @@ The midi to CV codebase is based on https://github.com/nyannkov/nano_midi and is
 The python scrips were used to generate icons, look up tables (LUT) and menus.
 
 
-I used the folowing settings in platform.ini:
+I used the following settings in platform.ini:
 ```
 [env:sipeed-longan-nano]
 platform = gd32v
